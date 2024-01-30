@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Ajay Dhar. I am a Software Developer and Entrepreneur.
+My name is Ajay Dhar. I am a Software Developer and Entrepreneur. Let's try to prosper together : )
 
 ### My Tech Stack
 Note: Click on any badge to watch an all-in-one, crash course on that technology.
