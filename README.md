@@ -41,7 +41,7 @@ Local PHP Server on My Computer (For Development)
 
 Domain Names
 
-[![Go Daddy](https://img.shields.io/badge/Go_Daddy-e0234e?style=for-the-badge&logo=godaddy&logoColor=black)](https://www.godaddy.com/)
+[![Go Daddy](https://img.shields.io/badge/Go_Daddy-e0234e?style=for-the-badge&logo=godaddy&logoColor=white)](https://www.godaddy.com/)
 
 APIs
 
