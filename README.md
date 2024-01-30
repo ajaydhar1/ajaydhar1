@@ -5,7 +5,7 @@ My name is Ajay Dhar. I am a Principal Software Engineer and Software Architect.
 ### My Tech Stack
 Note: Click on any badge to watch an all-in-one, crash course on that technology.
 
-Badges for hosting providers, tools, and support link to their websites.
+Badges for hosting providers, tools, and support, link to their websites.
 
 Web
 
