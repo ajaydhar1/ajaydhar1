@@ -47,6 +47,10 @@ Local PHP Server on My Computer (For Development)
 
 [![AMPPS](https://img.shields.io/badge/AMPPS-FB7A24?style=for-the-badge&logo=apache&logoColor=323330)](https://ampps.com/)
 
+Deployment Tool for Pushing PHP Web Projects and Files to the Hosting Provider (Just Simple File Transfers)
+
+[![FileZilla](https://img.shields.io/badge/FileZilla-BF0000?style=for-the-badge&logo=filezilla&logoColor=white)](https://filezilla-project.org/)
+
 Domain Names
 
 [![Go Daddy](https://img.shields.io/badge/Go_Daddy-1BDBDB?style=for-the-badge&logo=godaddy&logoColor=black)](https://www.godaddy.com/)
