@@ -1,16 +1,31 @@
 ### Hi there 👋
 
-<!--
-**ajaydhar1/ajaydhar1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Ajay Dhar. I am a Principal Software Engineer and Software Architect.
 
-Here are some ideas to get you started:
+### My Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Web
+
+![HTML](https://img.shields.io/badge/HMTL-ED8B00?style=for-the-badge&logo=html5&logoColor=black)
+![CSS](https://img.shields.io/badge/CSS-F2F4F9?style=for-the-badge&logo=css3&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=323330)
+![jQuery](https://img.shields.io/badge/jQuery-007ACC?style=for-the-badge&logo=jquery&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-339933?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+Bootstrap Themes
+
+![Theme Forest](https://img.shields.io/badge/Theme_Forest-1677FF?style=for-the-badge)
+![Start Bootstrap](https://img.shields.io/badge/Start_Bootstrap-e0234e?style=for-the-badge)
+
+Server-Side Web
+
+![PHP](https://img.shields.io/badge/PHP-231F20?style=for-the-badge&logo=php&logoColor=white)
+
+APIs
+
+![Python](https://img.shields.io/badge/Python-087ea4?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-1677FF?style=for-the-badge&logo=flask&logoColor=white)
+
+Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-F2F4F9?style=for-the-badge&logo=mysql&logoColor=black)
