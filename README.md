@@ -25,7 +25,7 @@ Bootstrap Themes
 Color Tools
 
 [![Color Picker](https://img.shields.io/badge/Color_Picker-007ACC?style=for-the-badge&logoColor=white)](https://www.w3schools.com/colors/colors_picker.asp)
-[![uiGradient](https://img.shields.io/badge/uiGradient-FF1493?style=for-the-badge&logoColor=black)](https://uigradients.com/#DigitalWater)
+[![uiGradients](https://img.shields.io/badge/uiGradients-FF1493?style=for-the-badge&logoColor=black)](https://uigradients.com/#DigitalWater)
 
 Server-Side Web
 
