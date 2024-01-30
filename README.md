@@ -3,7 +3,7 @@
 My name is Ajay Dhar. I am a Principal Software Engineer and Software Architect.
 
 ### My Tech Stack
-Note: Click on any badge to watch an all-in-one, crash course on that technology
+Note: Click on any badge to watch an all-in-one, crash course on that technology.
 
 Web
 
@@ -22,11 +22,24 @@ Server-Side Web
 
 [![PHP](https://img.shields.io/badge/PHP-231F20?style=for-the-badge&logo=php&logoColor=white)](https://www.youtube.com/watch?v=pWBRjQBWuYA)
 
+PHP Hosting
+
+[![Bluehost](https://img.shields.io/badge/Bluehost-FE7A16?style=for-the-badge&logoColor=white)](https://www.bluehost.com/)
+[![Hostinger](https://img.shields.io/badge/Hostinger-1a202e?style=for-the-badge&logo=hostinger&logoColor=white)](https://www.hostinger.com/)
+
 APIs
 
 [![Python](https://img.shields.io/badge/Python-087ea4?style=for-the-badge&logo=python&logoColor=white)](https://www.youtube.com/watch?v=H1elmMBnykA)
 [![Flask](https://img.shields.io/badge/Flask-1677FF?style=for-the-badge&logo=flask&logoColor=white)](https://www.youtube.com/watch?v=m5TKQF7WJzc)
 
+API Hosting
+
+[![Heroku](https://img.shields.io/badge/Heroku-F2F4F9?style=for-the-badge&logo=heroku&logoColor=orange)](https://www.heroku.com)
+
 Databases
 
-[![MySQL](https://img.shields.io/badge/MySQL-F2F4F9?style=for-the-badge&logo=mysql&logoColor=black)](https://www.youtube.com/watch?v=yPu6qV5byu4)
+[![MySQL](https://img.shields.io/badge/MySQL-009639?style=for-the-badge&logo=mysql&logoColor=white)](https://www.youtube.com/watch?v=yPu6qV5byu4)
+
+All-In-One Cloud Platform
+
+[![AWS](https://img.shields.io/badge/AWS-7d64ff?style=for-the-badge&logo=amazon-ec2&logoColor=white)](https://aws.amazon.com/)
