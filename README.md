@@ -39,7 +39,7 @@ Server-Side Web
 
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.youtube.com/watch?v=pWBRjQBWuYA)
 
-PHP Hosting
+PHP Hosting Providers
 
 [![Bluehost](https://img.shields.io/badge/Bluehost-231F20?style=for-the-badge&logoColor=white)](https://www.bluehost.com/)
 [![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white)](https://www.hostinger.com/)
@@ -72,7 +72,7 @@ Databases
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.youtube.com/watch?v=yPu6qV5byu4)
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.youtube.com/playlist?list=PL4RCxklHWZ9v2lcat4oEVGQhZg6r4IQGV)
 
-All-In-One Cloud Platform
+All-In-One Cloud Provider
 
 [![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon&logoColor=white)](https://aws.amazon.com/)
 
