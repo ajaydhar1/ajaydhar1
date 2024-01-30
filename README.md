@@ -48,6 +48,8 @@ APIs
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.youtube.com/watch?v=H1elmMBnykA)
 [![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://www.youtube.com/watch?v=m5TKQF7WJzc)
+[![REST](https://img.shields.io/badge/REST-FF1493?style=for-the-badge)](https://www.youtube.com/watch?v=-mN3VyJuCjM)
+[![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)](https://www.youtube.com/watch?v=GpOO5iKzOmY)
 
 API Hosting
 
