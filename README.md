@@ -5,7 +5,7 @@ My name is Ajay Dhar. I am a Principal Software Engineer and Software Architect.
 ### My Tech Stack
 Note: Click on any badge to watch an all-in-one, crash course on that technology.
 
-Badges for hosting providers link to their websites.
+Badges for hosting providers, tools, and support link to their websites.
 
 Web
 
@@ -20,6 +20,11 @@ Bootstrap Themes
 
 [![Theme Forest](https://img.shields.io/badge/Theme_Forest-1677FF?style=for-the-badge)](https://themeforest.net/)
 [![Start Bootstrap](https://img.shields.io/badge/Start_Bootstrap-e0234e?style=for-the-badge)](https://startbootstrap.com/themes)
+
+Color Tools
+
+[![Color Picker](https://img.shields.io/badge/Color_Picker-007ACC?style=for-the-badge&logoColor=white)](https://www.w3schools.com/colors/colors_picker.asp)
+[![uiGradient](https://img.shields.io/badge/uiGradient-F2F4F9?style=for-the-badge&logoColor=black)](https://uigradients.com/#DigitalWater)
 
 Server-Side Web
 
@@ -51,3 +56,11 @@ Databases
 All-In-One Cloud Platform
 
 [![AWS](https://img.shields.io/badge/AWS-7d64ff?style=for-the-badge&logo=amazon-ec2&logoColor=white)](https://aws.amazon.com/)
+
+Tech Support
+
+[![Fiverr](https://img.shields.io/badge/Fiverr-1a202e?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/)
+
+Text Editor
+
+[![Sublime Text 3](https://img.shields.io/badge/Sublime_Text_3-e0234e?style=for-the-badge&logo=sublimetext)](https://www.sublimetext.com/)
