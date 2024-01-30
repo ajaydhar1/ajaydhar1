@@ -15,7 +15,7 @@ Web
 [![jQuery](https://img.shields.io/badge/jQuery-007ACC?style=for-the-badge&logo=jquery&logoColor=white)](https://www.youtube.com/watch?v=BWXggB-T1jQ)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-339933?style=for-the-badge&logo=bootstrap&logoColor=white)](https://www.youtube.com/watch?v=Jyvffr3aCp0)
 [![WordPress](https://img.shields.io/badge/WordPress-1a202e?style=for-the-badge&logo=wordpress&logoColor=white)](https://www.youtube.com/watch?v=AABmCvjd_iU)
-[![Chrome Developer Tools](https://img.shields.io/badge/Chrome_Developer_Tools-F0DB4F?style=for-the-badge&logo=chrome&logoColor=323330)](https://www.youtube.com/watch?v=x4q86IjJFag)
+[![Chrome Dev Tools](https://img.shields.io/badge/Chrome_Dev_Tools-F0DB4F?style=for-the-badge&logo=googlechrome&logoColor=323330)](https://www.youtube.com/watch?v=x4q86IjJFag)
 
 Bootstrap Themes
 
