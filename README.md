@@ -22,7 +22,7 @@ Where I Get Bootstrap Themes From
 [![Theme Forest](https://img.shields.io/badge/Theme_Forest-81B441?style=for-the-badge)](https://themeforest.net/)
 [![Start Bootstrap](https://img.shields.io/badge/Start_Bootstrap-e0234e?style=for-the-badge&logo=bootstrap&logoColor=white)](https://startbootstrap.com/themes)
 
-Color Tools
+Color Tools for Things Like Backgrounds
 
 [![Color Picker](https://img.shields.io/badge/Color_Picker-007ACC?style=for-the-badge&logoColor=white)](https://www.w3schools.com/colors/colors_picker.asp)
 [![uiGradients](https://img.shields.io/badge/uiGradients-FF1493?style=for-the-badge&logoColor=black)](https://uigradients.com/#DigitalWater)
