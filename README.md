@@ -28,6 +28,7 @@ Where I get Images and Gifs From
 [![Pexels](https://img.shields.io/badge/Pexels-05A081?style=for-the-badge&logo=pexels&logoColor=white)](https://www.pexels.com)
 [![Giphy](https://img.shields.io/badge/Giphy-FF6666?style=for-the-badge&logo=giphy&logoColor=white)](https://giphy.com)
 [![iStockPhoto](https://img.shields.io/badge/iStockPhoto-ED8B00?style=for-the-badge)](https://www.istockphoto.com)
+[![Flat Icon](https://img.shields.io/badge/Flat_Icon-F7DF1E?style=for-the-badge)](https://www.flaticon.com)
 
 Color Tools for Things Like Backgrounds
 
