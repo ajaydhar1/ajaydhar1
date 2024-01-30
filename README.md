@@ -17,7 +17,7 @@ Web
 [![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://www.youtube.com/watch?v=AABmCvjd_iU)
 [![Chrome Dev Tools](https://img.shields.io/badge/Chrome_Dev_Tools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.youtube.com/watch?v=x4q86IjJFag)
 
-Bootstrap Themes
+Where I Get Bootstrap Themes
 
 [![Theme Forest](https://img.shields.io/badge/Theme_Forest-81B441?style=for-the-badge)](https://themeforest.net/)
 [![Start Bootstrap](https://img.shields.io/badge/Start_Bootstrap-e0234e?style=for-the-badge&logo=bootstrap&logoColor=white)](https://startbootstrap.com/themes)
