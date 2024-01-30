@@ -39,6 +39,10 @@ Local PHP Server on My Computer (For Development)
 
 ![AMPPS](https://img.shields.io/badge/AMPPS-F0DB4F?style=for-the-badge&logo=apache&logoColor=323330)
 
+Domain Names
+
+[![Go Daddy](https://img.shields.io/badge/Go_Daddy-e0234e?style=for-the-badge&logo=godaddy&logoColor=black)](https://www.godaddy.com/)
+
 APIs
 
 [![Python](https://img.shields.io/badge/Python-087ea4?style=for-the-badge&logo=python&logoColor=white)](https://www.youtube.com/watch?v=H1elmMBnykA)
