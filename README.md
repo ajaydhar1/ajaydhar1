@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-My name is Ajay Dhar. I am a Software Developer and Entrepreneur. Let's try to prosper together : )
+My name is Ajay Dhar. I am a Software Developer and Entrepreneur.
+
+Over time I will be uploading the full source code for some of my websites here. Please feel free to use them however you want!
+
+Let's try to prosper together : )
 
 ### My Tech Stack
 Note: Click on any badge to watch an all-in-one, crash course on that technology.
