@@ -46,6 +46,7 @@ API Hosting
 Databases
 
 [![MySQL](https://img.shields.io/badge/MySQL-009639?style=for-the-badge&logo=mysql&logoColor=white)](https://www.youtube.com/watch?v=yPu6qV5byu4)
+[![MongoDB](https://img.shields.io/badge/MongoDB-ED8B00?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.youtube.com/playlist?list=PL4RCxklHWZ9v2lcat4oEVGQhZg6r4IQGV)
 
 All-In-One Cloud Platform
 
