@@ -14,6 +14,7 @@ Web
 [![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=323330)](https://www.youtube.com/watch?v=_cLvpJY2deo&list=PLBA965A22D89CF13B)
 [![jQuery](https://img.shields.io/badge/jQuery-007ACC?style=for-the-badge&logo=jquery&logoColor=white)](https://www.youtube.com/watch?v=BWXggB-T1jQ)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-339933?style=for-the-badge&logo=bootstrap&logoColor=white)](https://www.youtube.com/watch?v=Jyvffr3aCp0)
+[![WordPress](https://img.shields.io/badge/WordPress-1a202e?style=for-the-badge&logo=wordpress&logoColor=white)](https://www.youtube.com/watch?v=AABmCvjd_iU)
 
 Bootstrap Themes
 
@@ -28,6 +29,10 @@ PHP Hosting
 
 [![Bluehost](https://img.shields.io/badge/Bluehost-FE7A16?style=for-the-badge&logoColor=white)](https://www.bluehost.com/)
 [![Hostinger](https://img.shields.io/badge/Hostinger-1a202e?style=for-the-badge&logo=hostinger&logoColor=white)](https://www.hostinger.com/)
+
+Local PHP Server on My Computer (For Development)
+
+![AMPPS](https://img.shields.io/badge/AMMPS-F0DB4F?style=for-the-badge&logo=apache&logoColor=323330)
 
 APIs
 
