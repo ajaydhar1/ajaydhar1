@@ -32,7 +32,7 @@ PHP Hosting
 
 Local PHP Server on My Computer (For Development)
 
-![AMPPS](https://img.shields.io/badge/AMMPS-F0DB4F?style=for-the-badge&logo=apache&logoColor=323330)
+![AMPPS](https://img.shields.io/badge/AMPPS-F0DB4F?style=for-the-badge&logo=apache&logoColor=323330)
 
 APIs
 
