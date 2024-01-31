@@ -7,7 +7,7 @@ Over time, I will be uploading the full source code for some of my websites here
 Let's try to prosper together : )
 
 ### My Tech Stack
-Note: Click on any badge to watch an all-in-one, crash course on that technology.
+Click on any badge to watch an all-in-one crash course on that technology.
 
 Badges for hosting providers, tools, and support, link to their websites.
 
