@@ -9,7 +9,7 @@ Let's try to prosper together : )
 ### My Tech Stack
 Click on any badge to watch an all-in-one crash course on that technology.
 
-Badges for hosting providers, tools, and support, link to their websites.
+Badges for hosting providers, tools, and support link to their websites.
 
 Web
 
